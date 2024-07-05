@@ -13,7 +13,7 @@ API de Cadastro
 - Angular 
 - Node.js 
 - JSON Server 
--
+
 
 
 Não tive tempo hábil para terminar o projeto, assistir as aulas e implementar todos os aprendizados da aula. 
